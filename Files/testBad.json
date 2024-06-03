@@ -1,0 +1,22 @@
+[{
+  "id" : 1,
+  "name" : "apple",
+  "active" : true,
+  "partNumberNR" : "2303-E1A-G-M-W209B-VM",
+  "category" : "fruit",
+  "companyName" : "FruitsAll"
+}, {
+  "id" : 2,
+  "name" : "orange",
+  "active" : false,
+  "partNumberNR" : "5603-J1A-G-M-W982F-PO",
+  "category" : "fruit",
+  "companyName" : "FruitsAll"
+}, {
+  "id" : 3,
+  "name" : "glass",
+  "active" : true,
+  "partNumberNR" : "9999-E7R-Q-M-K287B-YH",
+  "category" : "dish",
+  "companyName" : "HomeHome"
+}]
